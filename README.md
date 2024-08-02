@@ -8,7 +8,7 @@ Every day, I solve a new problem and push my solutions to this repository. You c
 
 ## 🗂️ What's Inside?
 
-I’ve curated a list of the top 100 DSA problems from LeetCode, covering a wide array of topics:
+I’ve curated a list of the top DSA problems from LeetCode, covering a wide array of topics:
 
 - **Array** 📈
 - **String** 📝
@@ -24,8 +24,8 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 ### 🗓️ Challenge Log
 | Date       | Problem Title                       | LeetCode Link                                   | Difficulty | Link to Solution                              |
 |------------|-------------------------------------|-------------------------------------------------|------------|------------------------------------------------|
-| 2024-08-01 | Problem 1: Two Sum                  | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy       | [Solution](./solutions/2024-08-01_two_sum.cpp) |
-| 2024-08-02 | Problem 2: Reverse Linked List      | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy       | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
+| 2024-08-01 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium       | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
+| 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard       | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                                            |
 
 ## 🛠️ Technologies Used
@@ -46,6 +46,15 @@ Here are some resources that I find helpful for understanding DSA concepts:
 
 Contributions are welcome! If you have any suggestions, improvements, or additional problems to solve, feel free to open an issue or submit a pull request. Let's learn together! 🤝
 
+## 🛠️ Getting Started
+
+To clone this repository and start exploring the solutions, follow these simple steps:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/aniketkumar7/DSA_Sheet.git
+   ```
+
 ## 📫 Contact
 
 If you want to reach out, you can find me on:
@@ -53,3 +62,7 @@ If you want to reach out, you can find me on:
 - [LinkedIn](https://www.linkedin.com/in/aniketkumar07/) 💪🤝
 
 Thank you for visiting my repository! Happy coding! 🎉
+
+## 📜 License
+
+This project is licensed under the MIT License.
