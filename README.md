@@ -29,12 +29,6 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard        | Array, Two Pointers, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
-### 🗓️ Challenge Log
-| Date       | Problem Title                       | LeetCode Link                                   | Difficulty | Link to Solution                              |
-|------------|-------------------------------------|-------------------------------------------------|------------|------------------------------------------------|
-| 2024-08-01 | Problem 1:                   | [LeetCode]() | Medium       | [Solution]() |
-| 2024-08-02 | Problem 2:       | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard       | [Solution]() |
-| ...        | ...                                 | ...                                             | ...        | ...                                            |
 
 ## 🛠️ Technologies Used
 
