@@ -21,11 +21,17 @@ I’ve curated a list of the top DSA problems from LeetCode, covering a wide arr
 
 Each problem comes with a LeetCode link, difficulty level, and a solution. Dive in and challenge yourself! 💪
 
+| Date       | Problem Title                       | LeetCode Link                                   | Difficulty | Topic Category      | Link to Solution                              |
+|------------|-------------------------------------|-------------------------------------------------|------------|---------------------|------------------------------------------------|
+| 2024-08-01 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium        | Array, Divide and Conquer, Dynamic Programming  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
+| 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard        | Array, Two Pointers, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
+| ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
+
 ### 🗓️ Challenge Log
 | Date       | Problem Title                       | LeetCode Link                                   | Difficulty | Link to Solution                              |
 |------------|-------------------------------------|-------------------------------------------------|------------|------------------------------------------------|
-| 2024-08-01 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium       | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
-| 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard       | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
+| 2024-08-01 | Problem 1:                   | [LeetCode]() | Medium       | [Solution]() |
+| 2024-08-02 | Problem 2:       | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard       | [Solution]() |
 | ...        | ...                                 | ...                                             | ...        | ...                                            |
 
 ## 🛠️ Technologies Used
