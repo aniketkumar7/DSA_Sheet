@@ -23,7 +23,9 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 
 | Date       | Problem Title                       | LeetCode Link                                   | Difficulty | Topic Category      | Link to Solution                              |
 |------------|-------------------------------------|-------------------------------------------------|------------|---------------------|------------------------------------------------|
-| 2024-08-01 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium        | Array, Divide and Conquer, Dynamic Programming  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
+| 2024-08-01 | Problem 2: Two Sum      | [LeetCode](https://leetcode.com/problems/two-sum) | Easy        |  Array, Hash Table   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/1_TwoSum.cpp) |
+| 2024-08-01 | Problem 2: Longest Substring Without Repeating Characters      | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium        | String, Hash Table, Sliding Window   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/2_LongestSubstring.cpp) |
+| 2024-08-02 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium        | Array, Divide and Conquer, Dynamic Programming  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
 | 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard        | Array, Two Pointers, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
