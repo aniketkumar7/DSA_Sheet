@@ -24,7 +24,7 @@
 
 #include <iostream>
 #include <vector>
-    using namespace std;
+using namespace std;
 
 int maxSubarray(vector<int> &nums)
 {
@@ -39,6 +39,20 @@ int maxSubarray(vector<int> &nums)
     }
 
     return maxSum;
+}
+
+
+int main(){
+    vector<int> nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    cout << "Input array: ";
+    for (int num : nums)
+    {
+        cout << num << " ";
+    }
+    cout << endl;
+    cout << "Length of the longest subarray with the maximum Sum: ";
+    cout << maxSubarray(nums) << endl;
+    return 0;
 }
 
 
