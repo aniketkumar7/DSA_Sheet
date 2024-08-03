@@ -27,6 +27,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-01 | Problem 2: Longest Substring Without Repeating Characters      | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium        | String, Hash Table, Sliding Window   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/2_LongestSubstring.cpp) |
 | 2024-08-02 | Problem 1: Maximum Subarray                  | [LeetCode](https://leetcode.com/problems/maximum-subarray) | Medium        | Array, Divide and Conquer, Dynamic Programming  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/3_MaximumSubArray.cpp) |
 | 2024-08-02 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard        | Array, Two Pointers, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
+| 2024-08-03 | Problem 2: Add Two Numbers      | [LeetCode](https://leetcode.com/problems/add-two-numbers) | Medium        |  Linked List, Math, Recursion   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/5_AddTwoNumbers.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
 
