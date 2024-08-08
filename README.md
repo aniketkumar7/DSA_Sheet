@@ -29,6 +29,8 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-04 | Problem 2: Trapping Rain Water      | [LeetCode](https://leetcode.com/problems/trapping-rain-water) | Hard        | Array, Two Pointers, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/4_TrappingRainWater.cpp) |
 | 2024-08-05 | Problem 2: Add Two Numbers      | [LeetCode](https://leetcode.com/problems/add-two-numbers) | Medium        |  Linked List, Math, Recursion   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/5_AddTwoNumbers.cpp) |
 | 2024-08-06 | Problem 2: 3Sum      | [LeetCode](https://leetcode.com/problems/3sum) | Medium        |  Array, Two Pointers, Sorting   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/6_3Sum.cpp) |
+| 2024-08-07 | Problem 2: Longest Palindromic Substring      | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring) | Medium        |  String, Dynamic Programming    | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/7_Longest_Palindrome_String.cpp) |
+| 2024-08-08 | Problem 2: 3Sum      | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard        |  Array, Binary Search, Divide and Conquer   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/8_Median_of_Two_Sorted_Arrays.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
 
