@@ -31,7 +31,8 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-06 | Problem 6: 3Sum      | [LeetCode](https://leetcode.com/problems/3sum) | Medium        |  Array, Two Pointers, Sorting   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/6_3Sum.cpp) |
 | 2024-08-07 | Problem 7: Longest Palindromic Substring      | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring) | Medium        |  String, Dynamic Programming    | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/7_Longest_Palindrome_String.cpp) |
 | 2024-08-08 | Problem 8: 3Sum      | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard        |  Array, Binary Search, Divide and Conquer   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/8_Median_of_Two_Sorted_Arrays.cpp) |
-| 2024-08-08 | Problem 9: Container With Most Water    | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Medium        |  Array, Two Pointers, Greedy    | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/9_Container_with_most_water.cpp) |
+| 2024-08-09 | Problem 9: Container With Most Water    | [LeetCode](https://leetcode.com/problems/container-with-most-water) | Medium        |  Array, Two Pointers, Greedy    | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/9_Container_with_most_water.cpp) |
+| 2024-08-10 | Problem 10: Best Time to Buy and Sell Stock   | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy        |  Array, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/10_Best_Time_To_Sell_Stock.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
 
