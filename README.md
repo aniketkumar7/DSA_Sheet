@@ -35,6 +35,9 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-10 | Problem 10: Best Time to Buy and Sell Stock   | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy        |  Array, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/10_Best_Time_To_Sell_Stock.cpp) |
 | 2024-08-11 | Problem 11: Search in Rotated Sorted Array   | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium        | Array, Binary Search   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/11_Search_in_Rotated_Sorted_Array.cpp) |
 | 2024-08-12 | Problem 12: Merge Intervals   | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium        | Array, Sorting, DP   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/12_Merge_Intervals.cpp) |
+| 2024-08-13 | Problem 13: Number of Islands   | [LeetCode](https://leetcode.com/problems/number-of-islands) | Medium        |  Depth-First Search, Matrix, Array
+Breadth-First Search,  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/13_No_of_Islands.cpp) |
+| 2024-08-14 | Problem 14: Find the Duplicate Number  | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number) | Medium        | Array, Two Pointer   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/14_Find_the_Duplicate_Number.cpp) |
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
 
