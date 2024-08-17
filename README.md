@@ -38,6 +38,9 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-13 | Problem 13: Number of Islands   | [LeetCode](https://leetcode.com/problems/number-of-islands) | Medium        |  Depth-First Search, Matrix, Array
 Breadth-First Search,  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/13_No_of_Islands.cpp) |
 | 2024-08-14 | Problem 14: Find the Duplicate Number  | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number) | Medium        | Array, Two Pointer   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/14_Find_the_Duplicate_Number.cpp) |
+| 2024-08-15 | Problem 15: Construct String from Binary Tree  | [LeetCode](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | Medium        | Recursion, Tree, Strings   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/15_Construct_String_From_Binary_Tree.cpp) |
+| 2024-08-16 | Problem 16: Flatten a Linked List  | [LeetCode](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Medium        | Linked List   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/16_Flattened_a_LinkedList.cpp) |
+
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
 
