@@ -1,6 +1,6 @@
-// Find Players With Zero or One Losses
+// QUESTION: Find Players With Zero or One Losses
 
-// Problem Statement:
+// PROBLEM STATEMENT:
 // You are given an integer array matches where matches[i] = [winneri, loseri] indicates that the player winneri defeated player loseri in a match.
 
 // Return a list answer of size 2 where:
@@ -15,7 +15,6 @@
 // The testcases will be generated such that no two matches will have the same outcome.
 
 // Example 1:
-
 // Input: matches = [[1,3],[2,3],[3,6],[5,6],[5,7],[4,5],[4,8],[4,9],[10,4],[10,9]]
 // Output: [[1,2,10],[4,5,7,8]]
 // Explanation:
@@ -24,9 +23,12 @@
 // Players 3, 6, and 9 each have lost two matches.
 // Thus, answer[0] = [1,2,10] and answer[1] = [4,5,7,8].
 
+// SOLUTION:
+
 #include <bits/stdc++.h>
 using namespace std;
 
+// APPROACH 1:
 vector<vector<int>> findWinner(vector<vector<int>>& matches)
 {
     map<int, pair<int, int>> mp;
@@ -48,6 +50,7 @@ vector<vector<int>> findWinner(vector<vector<int>>& matches)
     return ans;
 }
 
+// APPROACH 2:
 vector<vector<int>> findWinners1(vector<vector<int>> &matches)
 {
     int n = matches.size();
