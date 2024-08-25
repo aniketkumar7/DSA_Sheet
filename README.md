@@ -45,6 +45,9 @@ Breadth-First Search,  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/bl
 | 2024-08-19 | Problem 19: House Robber  | [LeetCode](https://leetcode.com/problems/house-robber/description/) | Medium        | Array, Dynamic Programming   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/19_House_Robber.cpp) |
 | 2024-08-20 | Problem 20: Longest Increasing Subsequence  | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence) | Medium        | Array, Binary Search Dynamic, Programming  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/20_Longest_Increasing_Subsequence.cpp) |
 | 2024-08-21 | Problem 21: Reverse LinkedList  | [LeetCode](https://leetcode.com/problems/reverse-linked-list) | Medium        | Linked List,Recursion   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/21_Reverse_Linked_List.cpp) |
+| 2024-08-22 | Problem 22: String Compression  | [LeetCode](https://leetcode.com/problems/string-compression/description/) | Medium        | Two Pointers, String   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/22_String_Compression.cpp) |
+| 2024-08-23 | Problem 23: Maximum Product Subarray | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/description/) | Medium        | Array, Dynamic Programmimg   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/23_Maximum_Product_Subarray.cpp) |
+| 2024-08-24 | Problem 24: Check If Two String Arrays are Equivalent  | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | Easy        | Array, String   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/24_Check_If_Two_String_Arrays_are_Equivalent.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
