@@ -48,6 +48,7 @@ Breadth-First Search,  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/bl
 | 2024-08-22 | Problem 22: String Compression  | [LeetCode](https://leetcode.com/problems/string-compression/description/) | Medium        | Two Pointers, String   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/22_String_Compression.cpp) |
 | 2024-08-23 | Problem 23: Maximum Product Subarray | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/description/) | Medium        | Array, Dynamic Programmimg   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/23_Maximum_Product_Subarray.cpp) |
 | 2024-08-24 | Problem 24: Check If Two String Arrays are Equivalent  | [LeetCode](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | Easy        | Array, String   | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/24_Check_If_Two_String_Arrays_are_Equivalent.cpp) |
+| 2024-08-25 | Problem 25: Maximum Count of Positive Integer and Negative Integer  | [LeetCode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy        | Array, Binary Search, Counting  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/25_Maximum_Count_of_Positive_Integer_and_Negative_Integer.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
