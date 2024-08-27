@@ -17,6 +17,11 @@
 // -100 <= nums[i] <= 100
 // nums is sorted in non-decreasing order.
 
+
+// ALGORITHM:
+// 1. Traverse the array and count the number of positive and negative integers in the array.
+// 2. Return the maximum between the number of positive integers and the number of negative integers.
+
 // SOLUTION:
 
 #include <iostream>
@@ -42,7 +47,7 @@ int maximumCount(vector<int> &nums)
 }
 
 
-
+// MAIN FUNCTION
 int main()
 {
     vector<int> nums = {-3, -2, -1, 0, 0, 1, 2};
