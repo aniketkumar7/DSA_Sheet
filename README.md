@@ -54,6 +54,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-29 | Problem 29: Power Set  | [GFG](https://www.geeksforgeeks.org/problems/power-set4302/1) | Medium        | String, DP, Backtracking  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/29_Power_Set.cpp) |
 | 2024-08-30 | Problem 30: Valid Parentheses  | [LeetCode](https://leetcode.com/problems/valid-parentheses) | Medium        | Stack, Strings  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/30_Valid_Parentheses.cpp) |
 | 2024-08-27 | Problem 31: Climbing Stairs  | [LeetCode](https://leetcode.com/problems/climbing-stairs) | Medium        | Array, Recursion, DP  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/31_Climbing_Stairs.cpp) |
+| 2024-08-27 | Problem 32: Magnetic Force Between Two Balls | [LeetCode](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | Medium        | Array, Binary Search, Sorting  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/32_Magnetic_Force_Between_Two_Balls.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
