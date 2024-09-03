@@ -42,7 +42,7 @@ class Node{
 };
 
 
-// Approach:
+// Approach 1:
 
 void Solve(Node* &head, int &k, int &ans){
     if(head == NULL){
@@ -54,9 +54,8 @@ void Solve(Node* &head, int &k, int &ans){
 
     // again traverse the linked list from head to tail until the k equal to 0
     // when k becomes 0, return the node
-    if(k == 0){
+    if(k == 1){
         ans = head->data;
-        return;
     }
     --k;
 }
@@ -68,10 +67,35 @@ int getNode(Node *head, int k)
     return ans;
 }
 
+
+// Approach 2:
+int findKthFromEnd(Node *head, int k)
+{
+    Node *first = head;
+    Node *second = head;
+
+    // Move first pointer k steps ahead
+    for (int i = 0; i < k; ++i)
+    {
+        if (!first)
+            return -1; // k is larger than the number of nodes
+        first = first->next;
+    }
+
+    // Move both pointers until first reaches the end
+    while (first)
+    {
+        first = first->next;
+        second = second->next;
+    }
+
+    return second ? second->data : -1;
+}
+
 void print(Node* &head){
     Node* temp = head;
     while(temp != NULL){
-        cout << temp->data << "->";
+        cout << temp->data << " ";
         temp = temp->next;
     }
     cout << endl;
@@ -91,6 +115,8 @@ int main()
     int k = 4;
     cout << "The " << k << " node from the end is: " << endl;
     cout << getNode(head, k) << endl;
+    cout << "The " << k << " node from the end is: " << endl;
+    cout << findKthFromEnd(head, k) << endl;
     return 0;
 }
 
