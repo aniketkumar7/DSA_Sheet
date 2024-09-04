@@ -55,7 +55,9 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-08-30 | Problem 30: Valid Parentheses  | [LeetCode](https://leetcode.com/problems/valid-parentheses) | Medium        | Stack, Strings  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/30_Valid_Parentheses.cpp) |
 | 2024-08-31 | Problem 31: Climbing Stairs  | [LeetCode](https://leetcode.com/problems/climbing-stairs) | Medium        | Array, Recursion, DP  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/31_Climbing_Stairs.cpp) |
 | 2024-09-01 | Problem 32: Magnetic Force Between Two Balls | [LeetCode](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | Medium        | Array, Binary Search, Sorting  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/32_Magnetic_Force_Between_Two_Balls.cpp) |
-| 2024-09-02 | Problem 32: Linked List Cycle | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\33_Linked_List_Cycle.cpp) |
+| 2024-09-02 | Problem 33: Linked List Cycle | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\33_Linked_List_Cycle.cpp) |
+| 2024-09-02 | Problem 34: Kth from End of Linked List | [GFG](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\34_Print_Kth_Node_From_End.cpp) |
+| 2024-09-02 | Problem 35: Merge Sorted Array | [LeetCode](https://leetcode.com/problems/merge-sorted-array/description/) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\35_Merge_Sort.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
