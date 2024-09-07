@@ -14,6 +14,7 @@
 // Output: 3
 // Explanation: Distributing the 3 balls into baskets 1, 4 and 7 will make the magnetic force between ball pairs [3, 3, 6]. The minimum magnetic force is 3. We cannot achieve a larger minimum magnetic force than 3.
 
+
 // Algorithm:
 // Step 1: Sort the array
 // Step 2: Binary Search
@@ -25,8 +26,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
-// Approach 1: Brute Force
+// Approach :
 bool isPossible(vector<int> &position, int m, int mid){
     int balls = 1;
     int lastPosition = position[0];
