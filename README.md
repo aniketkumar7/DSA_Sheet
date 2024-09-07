@@ -58,6 +58,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-02 | Problem 33: Linked List Cycle | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\33_Linked_List_Cycle.cpp) |
 | 2024-09-03 | Problem 34: Kth from End of Linked List | [GFG](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\34_Print_Kth_Node_From_End.cpp) |
 | 2024-09-04 | Problem 35: Merge Sorted Array | [LeetCode](https://leetcode.com/problems/merge-sorted-array/description/) | Medium        | Linked List  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\35_Merge_Sort.cpp) |
+| 2024-09-04 | Problem 36: Search a 2D Matrix  | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/description/) | Medium        | Array, Binary Search, Matrix  | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\36_Search_In_2D_Matrix.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
