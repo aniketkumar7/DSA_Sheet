@@ -10,13 +10,12 @@
 // Input: [1,1,2,3,3,4,4,8,8]
 // Output: 2
 
+// Solution:
 #include <bits/stdc++.h>
 using namespace std;
 
 
-// Brute Force Approach:
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+
 int singleNonDuplicate1(vector<int> &nums)
 {
     int n = nums.size();
@@ -29,9 +28,7 @@ int singleNonDuplicate1(vector<int> &nums)
 }
 
 
-// Brute Force Approach:
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+
 int singleNonDuplicate2(vector<int> &nums)
 {
     for (int i = 0; i < nums.size(); i += 2)
@@ -44,9 +41,6 @@ int singleNonDuplicate2(vector<int> &nums)
     return -1;
 }
 
-// Optimal Approach:
-// Time Complexity: O(log n)
-// Space Complexity: O(1)
 
 int singleNonDuplicate3(vector<int> &nums)
 {
