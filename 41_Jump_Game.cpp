@@ -4,7 +4,7 @@
 // Problem Statement:
 // Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
 
-// Return tr ue if you can jump to the last index, or false otherwise.
+// Return true if you can jump to the last index, or false otherwise.
 
 // Example 1:
 // Input: nums = [2,3,1,1,4]
@@ -23,7 +23,7 @@ bool canJump(vector<int>& nums) {
     // base case
     if (n == 1)
         return true;
-        
+
     int reachable = 0;
     for (int i = 0; i < n; i++) {
         if (i > reachable)
