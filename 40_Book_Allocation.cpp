@@ -23,58 +23,100 @@
 
 using namespace std;
 
-bool isValid(vector<int> &pages, int n, int m, int mid)
+// Approach 1: Linear Search
+int findMinMaxPages(const vector<int> &bookPages, int numStudents)
 {
-    int students = 1;
-    int sum = 0;
+    int numBooks = bookPages.size();
+    int totalPages = 0;
+    int maxBookPages = 0;
 
-    for (int i = 0; i < n; i++)
+    for (int pages : bookPages)
     {
-        if (sum + pages[i] > mid)
+        totalPages += pages;
+        maxBookPages = max(maxBookPages, pages);
+    }
+
+    if (numStudents > numBooks)
+        return -1;
+
+    for (int maxAllocation = maxBookPages; maxAllocation <= totalPages; maxAllocation++)
+    {
+        int studentsRequired = 1;
+        int pagesAllocated = 0;
+
+        for (int pages : bookPages)
         {
-            students++;
-            sum = pages[i];
+            if (pagesAllocated + pages > maxAllocation)
+            {
+                studentsRequired++;
+                pagesAllocated = pages;
+            }
+            else
+            {
+                pagesAllocated += pages;
+            }
         }
-        else
+
+        if (studentsRequired <= numStudents)
         {
-            sum += pages[i];
+            return maxAllocation;
         }
     }
 
-    return students <= m;
+    return -1;
 }
 
-int allocateBooks(vector<int> &pages, int m)
+// Approach 2: Binary Search
+bool isValidAllocation(const vector<int> &bookPages, int numBooks, int numStudents, int maxPages)
 {
-    int n = pages.size();
-    int sum = 0;
-    int result = -1;
+    int studentsRequired = 1;
+    int pagesAllocated = 0;
 
-    if (n < m)
+    for (int i = 0; i < numBooks; i++)
     {
-        return -1;
-    }
-
-    for (int page : pages)
-    {
-        sum += page;
-    }
-
-    int low = *max_element(pages.begin(), pages.end());
-    int high = sum;
-
-    while (low <= high)
-    {
-        int mid = low + (high - low) / 2;
-
-        if (isValid(pages, n, m, mid))
+        if (pagesAllocated + bookPages[i] > maxPages)
         {
-            result = mid;
-            high = mid - 1;
+            studentsRequired++;
+            pagesAllocated = bookPages[i];
         }
         else
         {
-            low = mid + 1;
+            pagesAllocated += bookPages[i];
+        }
+    }
+
+    return studentsRequired <= numStudents;
+}
+
+int allocateBooksBinarySearch(const vector<int> &bookPages, int numStudents)
+{
+    int numBooks = bookPages.size();
+    int totalPages = 0;
+    int result = -1;
+
+    if (numBooks < numStudents)
+        return -1;
+
+    for (int pages : bookPages)
+    {
+        totalPages += pages;
+    }
+
+    int minPages = *max_element(bookPages.begin(), bookPages.end());
+    int maxPages = totalPages;
+
+    while (minPages <= maxPages)
+    {
+        int midPages = minPages + (maxPages - minPages) / 2;
+
+        if (isValidAllocation(bookPages, numBooks, numStudents, midPages))
+        {
+            result = midPages;
+            maxPages = midPages - 1;
+        }
+        else
+        {
+            minPages = midPages + 1;
         }
     }
 
@@ -83,10 +125,17 @@ int allocateBooks(vector<int> &pages, int m)
 
 int main()
 {
-    vector<int> pages = {12, 34, 67, 90};
-    int m = 2;
+    vector<int> bookPages = {24, 46, 26, 15, 18, 19, 20, 21, 22} ;
+    cout << "Book Pages: ";
+    for (int pages : bookPages)
+    {
+        cout << pages << " ";
+    }
+    int numStudents = 4;
+    cout << "\nNumber of Students: " << numStudents << endl;
 
-    cout << allocateBooks(pages, m) << endl;
+    cout << "Binary Search Result: " << allocateBooksBinarySearch(bookPages, numStudents) << endl;
+    cout << "Linear Search Result: " << findMinMaxPages(bookPages, numStudents) << endl;
 
     return 0;
 }
