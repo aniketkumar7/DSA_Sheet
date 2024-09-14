@@ -67,6 +67,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-11 | Problem 42: Next Permutation  | [LeetCode](https://leetcode.com/problems/next-permutation/) | Medium        | Array, Two Pointer | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\42_Next_Permutation.cpp) |
 | 2024-09-12 | Problem 43: Number of Beautiful Subsets  | [LeetCode](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | Medium        | Array,Hash Table, Math, Dynamic Programming, Backtracking, Sorting, Combinatorics | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\43_Number_Of_Beautiful_Subset.cpp) |
 | 2024-09-13 | Problem 44: Spiral Matrix  | [LeetCode](https://leetcode.com/problems/spiral-matrix/description/) | Medium        | Array,Matrix, Simulation| [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\44_Spiral_Matrix.cpp) |
+| 2024-09-14 | Problem 45: Coin Change  | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium        | Array, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\45_Coin_Change.cpp) |
 
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
