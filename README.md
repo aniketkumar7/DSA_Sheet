@@ -71,7 +71,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-15 | Problem 46: Subsets  | [LeetCode](https://leetcode.com/problems/subsets/description/) | Medium        | Array, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\46_Subsets.cpp) |
 | 2024-09-16 | Problem 47: Rat in a Maze  | [GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\47_Rat_in_a_Maze.cpp) |
 | 2024-09-17 | Problem 48: Permutations  | [Leetcode](https://leetcode.com/problems/permutations/) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\48_Permutations.cpp) |
-
+| 2024-09-18 | Problem 49: Letter Combinations of a Phone Number  | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\49_Letter_Combinations_of_a_Phone_Number.cpp) |
 
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
