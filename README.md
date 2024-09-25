@@ -73,6 +73,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-17 | Problem 48: Permutations  | [Leetcode](https://leetcode.com/problems/permutations/) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\48_Permutations.cpp) |
 | 2024-09-18 | Problem 49: Letter Combinations of a Phone Number  | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\49_Letter_Combinations_of_a_Phone_Number.cpp) |
 | 2024-09-19 | Problem 50: N-Queens  | [Leetcode](https://leetcode.com/problems/n-queens/) | Medium        | Algorithm, BackTracking, Recursion | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\50_N-Queens.cpp) |
+| 2024-09-20 | Problem 51: Word Pattern  | [Leetcode](https://leetcode.com/problems/word-pattern/) | Medium        | String, Map | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\51_Word_Pattern.cpp) |
 
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
