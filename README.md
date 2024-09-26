@@ -74,6 +74,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-18 | Problem 49: Letter Combinations of a Phone Number  | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium        | Algorithm, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\49_Letter_Combinations_of_a_Phone_Number.cpp) |
 | 2024-09-19 | Problem 50: N-Queens  | [Leetcode](https://leetcode.com/problems/n-queens/) | Medium        | Algorithm, BackTracking, Recursion | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\50_N-Queens.cpp) |
 | 2024-09-20 | Problem 51: Word Pattern  | [Leetcode](https://leetcode.com/problems/word-pattern/) | Medium        | String, Map | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\51_Word_Pattern.cpp) |
+| 2024-09-21 | Problem 52: Intersection of two Linked List  | [Leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy        | Hash Table, Linked List, Two Pointer | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\52_Intersection_of_two_Linked_List.cpp) |
 
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
