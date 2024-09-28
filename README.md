@@ -76,6 +76,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-20 | Problem 51: Word Pattern  | [Leetcode](https://leetcode.com/problems/word-pattern/) | Medium        | String, Map | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\51_Word_Pattern.cpp) |
 | 2024-09-21 | Problem 52: Intersection of two Linked List  | [Leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy        | Hash Table, Linked List, Two Pointer | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\52_Intersection_of_two_Linked_List.cpp) |
 | 2024-09-22 | Problem 53: Rotate Image  | [Leetcode](https://leetcode.com/problems/rotate-image/) | Easy        | Arrays, Matrix | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\53_Rotate_Image.cpp) |
+| 2024-09-23 | Problem 53: Maximum Alternating Sequence Sum  | [Leetcode](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | Medium        | Recursion, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\54_Maximum_Alternating_Sum.cpp) |
 
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
