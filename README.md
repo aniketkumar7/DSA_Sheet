@@ -78,7 +78,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-22 | Problem 53: Rotate Image  | [Leetcode](https://leetcode.com/problems/rotate-image/) | Easy        | Arrays, Matrix | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\53_Rotate_Image.cpp) |
 | 2024-09-23 | Problem 54: Maximum Alternating Sequence Sum  | [Leetcode](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | Medium        | Recursion, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\54_Maximum_Alternating_Sum.cpp) |
 | 2024-09-24 | Problem 55: Unique Paths  | [Leetcode](https://leetcode.com/problems/unique-paths/) | Medium        | Recursion, BackTracking | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\55_Unique_Paths.cpp) |
-
+| 2024-09-25 | Problem 56: Unique Paths  | [Leetcode](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | Medium        | Sliding Window, Map | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\56_Count_Occurences_of_Anagrams.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
