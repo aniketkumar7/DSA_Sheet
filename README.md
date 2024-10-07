@@ -82,6 +82,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-26 | Problem 57: Merge Nodes in Between Zeros  | [Leetcode](https://binarysearch.com/problems/Merge-Nodes-in-Between-Zeros) | Medium        | Linked List | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\57_Merge_Nodes_in_Between_Zeros.cpp) |
 | 2024-09-27 | Problem 58: Invert Binary Tree  | [Leetcode](https://leetcode.com/problems/invert-binary-tree/) | Easy        | Tree | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\58_Invert_Binary_Tree.cpp) |
 | 2024-09-28 | Problem 59: Reverse First K elements of Queue  | [GFG](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Medium        | Queue | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\59_Reverse_First_K_elements_of_Queue.cpp) |
+| 2024-09-29 | Problem 60: Reverse Words in a String  | [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium        | String | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\60_Reverse_Words_in_a_String.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
