@@ -84,6 +84,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-09-28 | Problem 59: Reverse First K elements of Queue  | [GFG](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Medium        | Queue | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\59_Reverse_First_K_elements_of_Queue.cpp) |
 | 2024-09-29 | Problem 60: Reverse Words in a String  | [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium        | String | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\60_Reverse_Words_in_a_String.cpp) |
 | 2024-09-30 | Problem 61: Search Insert Position  | [Leetcode](https://leetcode.com/problems/search-insert-position/) | Easy        | Array | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\61_Search_Insert_Position.cpp) |
+| 2024-10-1 | Problem 62: Count Nice Pairs in an Array  | [Leetcode](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium        | Hashmap | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\62_Count_Nice_Pairs.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
