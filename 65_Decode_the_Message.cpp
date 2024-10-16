@@ -1,5 +1,6 @@
 // Question: Decode the Message
 // Question URL: https://leetcode.com/problems/decode-ways/
+// Topic: Strings, Hashing
 
 // Problem Statement:
 // You are given the strings key and message, which represent a cipher key and a secret message, respectively. The steps to decode message are as follows:
