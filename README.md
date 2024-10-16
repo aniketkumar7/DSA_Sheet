@@ -87,6 +87,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-10-1 | Problem 62: Count Nice Pairs in an Array  | [Leetcode](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium        | Hashmap | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\62_Count_Nice_Pairs.cpp) |
 | 2024-10-2 | Problem 63: House Robber II  | [Leetcode](https://leetcode.com/problems/house-robber-ii/) | Medium        | Array, Dynamic Programming | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\63_House_Robber_II.cpp) |
 | 2024-10-3 | Problem 64: Merge K Sorted Lists  | [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | Medium        | Linked List, Merge Sort | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\64_Merge_k_Sorted_Lists.cpp) |
+| 2024-10-4 | Problem 65: Decode the Message  | [Leetcode](https://leetcode.com/problems/decode-ways/) | Medium        | Strings, Hashing | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\65_Decode_the_Message.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
