@@ -45,3 +45,20 @@ int main()
     cout << endl;
     return 0;
 }
+
+// Output:
+// Before Sorting: 12 11 13 5 6
+// After Sorting: 5 6 11 12 13
+
+// How Insertion Sort Works:
+// Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
+// We start from the second element and compare it with the elements before it and place it in the correct position.
+
+// Let's understand how Insertion Sort works with an example:
+// Consider an array {12, 11, 13, 5, 6}.
+
+// First Pass:
+// (12 11 13 5 6) -> (11 12 13 5 6) -> (11 12 13 5 6) -> (11 12 13 5 6) -> (5 11 12 13 6) -> (5 6 11 12 13)
+
+// Second Pass:
+// it will be same as first pass
