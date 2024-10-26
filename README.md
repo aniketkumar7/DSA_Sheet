@@ -88,6 +88,7 @@ Each problem comes with a LeetCode link, difficulty level, and a solution. Dive 
 | 2024-10-2 | Problem 63: House Robber II  | [Leetcode](https://leetcode.com/problems/house-robber-ii/) | Medium        | Array, Dynamic Programming | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\63_House_Robber_II.cpp) |
 | 2024-10-3 | Problem 64: Merge K Sorted Lists  | [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) | Medium        | Linked List, Merge Sort | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\64_Merge_k_Sorted_Lists.cpp) |
 | 2024-10-4 | Problem 65: Decode the Message  | [Leetcode](https://leetcode.com/problems/decode-ways/) | Medium        | Strings, Hashing | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\65_Decode_the_Message.cpp) |
+| 2024-10-5 | Problem 66: Find Original Array From Doubled Array  | [Leetcode](https://leetcode.com/problems/find-original-array-from-doubled-array/) | Medium        | Array, Hashmap | [Solution](https://github.com/aniketkumar7/DSA_Sheet/blob/main/C:\Users\anike\OneDrive\Desktop\Sheet\Array/Find_Original_Array_From_Doubled_Array.cpp) |
 
 | ...        | ...                                 | ...                                             | ...        | ...                 | ...                                            |
 
