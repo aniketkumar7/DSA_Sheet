@@ -1,0 +1,64 @@
+# DBMS Important Interview Questions
+
+# Basic DBMS Concepts
+1. What is DBMS? What are its advantages?
+    A Database Management System (DBMS) is software that interacts with end-users, applications, and the database itself to capture and analyze data. The DBMS software additionally encompasses the core facilities provided to administer the database. The advantages of DBMS include:
+    - Data Abstraction and Independence
+    - Efficient Data Access
+    - Data Integrity and Security
+    - Data Administration
+    - Concurrent Access and Crash Recovery
+    - Reduced Application Development Time
+
+2. What is the difference between DBMS and File System?
+    - DBMS provides a systematic and organized way of storing, managing, and retrieving data, whereas a File System stores data in a collection of files.
+    - DBMS supports multi-user environments and provides data consistency, integrity, and security, whereas File Systems are more prone to data redundancy and inconsistency.
+    - DBMS offers advanced functionalities like transaction management, concurrency control, and backup and recovery, which are not available in traditional File Systems.
+
+3. What are the different types of DBMS?
+    - Hierarchical DBMS: Data is organized in a tree-like structure.
+    - Network DBMS: Data is organized in a graph, allowing many-to-many relationships.
+    - Relational DBMS (RDBMS): Data is organized in tables (relations) and supports SQL.
+    - Object-oriented DBMS: Data is stored in objects, similar to object-oriented programming.
+    - NoSQL DBMS: Designed for large-scale data storage and for massively-parallel, high-performance data processing across a large number of commodity servers.
+
+4. Explain the 3-tier architecture of DBMS.
+    - Presentation Tier: This is the user interface layer where users interact with the system. It includes the web browser, mobile app, or GUI.
+    - Application Tier: Also known as the logic tier, it contains the application logic, business rules, and data processing logic. It acts as a mediator between the presentation tier and the data tier.
+    - Data Tier: This layer consists of the database servers where data is stored and managed. It provides data access and storage services.
+
+5. What is schema? Explain different types of schema.
+    - A schema is a logical structure that defines the organization of data in a database. It describes how data is stored, the relationships between different data entities, and the constraints on the data.
+    - Physical Schema: Defines how data is physically stored on storage devices.
+    - Logical Schema: Defines the logical structure of the database, including tables, views, and relationships.
+    - View Schema: Defines the user views of the data, which are subsets of the logical schema tailored for specific user needs.
+
+# SQL Basics
+6. What is SQL? What are different types of SQL commands?
+7. What is the difference between DELETE and TRUNCATE?
+8. Explain PRIMARY KEY and FOREIGN KEY constraints
+9. What is the difference between CHAR and VARCHAR?
+10. What are SQL joins? Explain different types of joins
+
+# Normalization
+11. What is normalization? Why is it needed?
+12. Explain 1NF, 2NF, 3NF and BCNF with examples
+13. What is denormalization?
+
+# Transactions
+14. What is a transaction? Explain ACID properties
+15. What are different transaction states?
+16. What is deadlock? How to prevent it?
+17. Explain isolation levels in DBMS
+
+# Indexing and Keys
+18. What is indexing? Types of indexing
+19. Difference between clustered and non-clustered index
+20. What are different types of keys in DBMS?
+
+# Advanced Concepts
+21. What is concurrency control?
+22. Explain different types of database recovery techniques
+23. What are stored procedures and triggers?
+24. Difference between horizontal and vertical scaling
+25. What is data warehousing? Explain ETL process
