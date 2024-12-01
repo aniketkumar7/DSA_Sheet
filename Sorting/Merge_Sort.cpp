@@ -9,60 +9,65 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void merge(vector<int> &nums, int s, int mid, int e)
+vector<int> merge(vector<int> &nums, int low, int mid, int high)
 {
-    int i = s;
-    int j = mid + 1;
-    int k = 0;
-    vector<int> temp(e - s + 1);
-    while (i <= mid && j <= e)
+    vector<int> temp;
+    int i = low, j = mid + 1;
+    while (i <= mid && j <= high)
     {
         if (nums[i] < nums[j])
         {
-            temp[k++] = nums[i++];
+            temp.push_back(nums[i]);
+            i++;
         }
         else
         {
-            temp[k++] = nums[j++];
+            temp.push_back(nums[j]);
+            j++;
         }
     }
     while (i <= mid)
     {
-        temp[k++] = nums[i++];
+        temp.push_back(nums[i]);
+        i++;
     }
-    while (j <= e)
+    while (j <= high)
     {
-        temp[k++] = nums[j++];
+        temp.push_back(nums[j]);
+        j++;
     }
-    for (int i = s, t=0; i <= e; i++, t++)
+    for (int i = low; i <= high; i++)
     {
-        nums[i] = temp[t];
+        nums[i] = temp[i - low];
     }
-}
-
-void solve(vector<int> &nums, int s, int e)
-{
-    if (s >= e)
-        return;
-
-    int mid = s + (e - s) / 2;
-    solve(nums, s, mid);
-    solve(nums, mid + 1, e);
-    merge(nums, s, mid, e);
-}
-
-
-vector<int> sortArray(vector<int> &nums)
-{
-    int n = nums.size();
-    solve(nums, 0, n - 1);
     return nums;
 }
 
+vector<int> solve(vector<int> &nums, int low, int high)
+{
+    if (low == high)
+    {
+        return {nums[low]};
+    }
+    int mid = low + (high - low) / 2;
+    vector<int> left = solve(nums, low, mid);
+    vector<int> right = solve(nums, mid + 1, high);
+    return merge(nums, low, mid, high);
+}
+
+
 int main()
 {
-    vector<int> nums = {5, 2, 3, 1, 7, 8, 2};
-    vector<int> ans = sortArray(nums);
+    cout << "Enter the size of the array: ";
+    int n;
+    cin >> n;
+    vector<int> nums(n);
+    cout << "Enter the elements of the array: ";
+    for (int i = 0; i < n; i++)
+    {
+        cin >> nums[i];
+    }
+    vector<int> ans = solve(nums, 0, n - 1);
     for (int i = 0; i < ans.size(); i++)
     {
         cout << ans[i] << " ";
